@@ -1,3 +1,7 @@
+# HCIE R&S
+
+1.二层
+
 # GIT的使用
 
 #### 1.安装git
@@ -27,17 +31,7 @@ $ git config --global user.email "email@example.com"
  ssh-keygen -t rsa –C “youremail@example.com” --邮箱
 ```
 
-得到ssh的公钥和私钥
-
-![image-20220713130729975](C:\Users\liang\AppData\Roaming\Typora\typora-user-images\image-20220713130729975.png)
-
-
-
-将公钥复制到github上
-
-![image-20220713130844606](C:\Users\liang\AppData\Roaming\Typora\typora-user-images\image-20220713130844606.png)
-
-
+得到ssh的公钥和私钥，将公钥复制到github上
 
 
 
@@ -57,17 +51,9 @@ git commit -m "描述信息"
 
 #### 3.github创建仓库
 
-![image-20220713130012664](C:\Users\liang\AppData\Roaming\Typora\typora-user-images\image-20220713130012664.png)
-
-
-
 
 
 将仓库的SSH链接复制到git
-
-![image-20220713131128502](C:\Users\liang\AppData\Roaming\Typora\typora-user-images\image-20220713131128502.png)
-
-
 
 
 
