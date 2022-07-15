@@ -1,3 +1,5 @@
+
+
 # HCIE R&S
 
 1.二层
@@ -6,7 +8,7 @@
 
 #### 1.安装git
 
-在Windows上使用Git，可以从Git官网直接[下载安装程序](https://git-scm.com/downloads)，然后按默认选项安装即可。
+在Windows上使用Git，可以从Git官网直接下载安装程序，然后按默认选项安装即可。
 
 安装完成后，在开始菜单里找到“Git”->“Git Bash”，蹦出一个类似命令行窗口的东西，就说明Git安装成功！
 
