@@ -43,6 +43,12 @@ port-group key-number mode { active | passive }
 
 
 
+
+
+------
+
+
+
 # 软件工具
 
 
@@ -110,7 +116,7 @@ git commit -m "描述信息"
 git add .
 git commit -m "描述信息"
 git branch -M main
-git remote add origin git@github.com:LiangTman/-.git
+git remote add origin git@github.com:LiangTman/-.git   --地址用自己仓库的
 git push -u origin main
 ```
 
